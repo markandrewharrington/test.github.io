@@ -1,0 +1,28 @@
+.intro {
+    color: white;
+    background-color: brown;
+    
+    }
+.intro img {
+    height: 346px;
+    width: 518px;
+}
+
+.my_projects {
+    color: white;
+    background-color: cadetblue;
+    height: auto;
+    margin: none;
+}
+    
+.my_projects .project {
+    background-color: inherit;
+    height: auto;
+}
+
+.contact {
+    color: white;
+    background-color: brown;
+    height: auto;
+}
+
